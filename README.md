@@ -88,6 +88,4 @@ Then, open `Saieashan_analysis.ipynb` in Jupyter Notebook.
   ```
 - If additional years are available, ensure they follow the naming format (`matchups-20XX.csv`).
 
-## Contact
 
-For any issues, feel free to raise a GitHub issue or reach out to the repository maintainer.
