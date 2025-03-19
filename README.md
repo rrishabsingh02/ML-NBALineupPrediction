@@ -76,7 +76,8 @@ Then, open `Saieashan_analysis.ipynb` in Jupyter Notebook.
 - Ensure **matplotlib** and **seaborn** are installed to display visualizations correctly.
 
 ### 5. Results 
-![image](https://github.com/user-attachments/assets/c705f8cf-282c-40b2-bc29-da55aac4b6ed)
+![image](https://github.com/user-attachments/assets/2986bd2f-7121-4a4f-bdc3-7dfc1706a094)
+
 
 
 
