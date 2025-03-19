@@ -46,11 +46,11 @@ The dataset consists of **NBA matchup CSV files** from multiple years (2007-2015
 
 ## Running the Notebook
 
-### 1. Clone the Repository (if applicable)
+### 1. Clone the Repository 
 
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/rrishabsingh02/ML-NBALineupPrediction.git
+cd MLNBALineupPrediction
 ```
 
 ### 2. Open Jupyter Notebook
